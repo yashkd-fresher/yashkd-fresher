@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*OvH9mG6M1m2KJcF1GmIuRQ.png)
+![Data Science Banner](https://miro.medium.com/max/1400/1*OvH9mG6M1m2KJcF1GmIuRQ.png)
 
 <h1 align="center">Hi 👋, I'm Yash Deshmane</h1>
 <h3 align="center">A Data Science Enthusiast & Machine Learning Engineer from India ❤️</h3>

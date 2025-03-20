@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Deshmane</h1>
 <h3 align="center">A Data Science Enthusiast & Machine Learning Engineer from India ❤️</h3>
 
-![MasterHead](https://resources.reed.co.uk/courses/coursemedia/483762/8805448d-1f40-46d8-bd2f-102a73f34aff_cover.webp)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLwBXA_L2NdKnWd3zDxztlvBEmKS9lL9Y56Q&s)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-deshmane-50005b22a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Deshmane</h1>
 <h3 align="center">A Data Science Enthusiast & Machine Learning Engineer from India ❤️</h3>
 
-![MasterHead]([https://proeffico.com/wp-content/uploads/2023/10/Data-Analytics-1024x512-2.jpg](https://proeffico.com/wp-content/uploads/2023/10/1616667695311-1.gif))
+![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/1616667695311-1.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-deshmane-50005b22a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>

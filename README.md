@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Deshmane</h1>
 <h3 align="center">A Data Science Enthusiast & Machine Learning Engineer from India ❤️</h3>
 
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://www.codingal.com/resources/wp-content/uploads/2023/04/image_6_1.png)
 
 
 <p align="center">

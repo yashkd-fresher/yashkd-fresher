@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Yash Deshmane</h1>
 <h3 align="center">A Data Science Enthusiast & Machine Learning Engineer from India ❤️</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dataspieler12345&label=Profile%20views&color=0e75b6&style=flat" alt="dataspieler12345" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-deshmane-50005b22a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>

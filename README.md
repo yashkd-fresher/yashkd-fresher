@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+![MasterHead](https://komarev.com/ghpvc/?username=dataspieler12345&label=Profile%20views&color=0e75b6&style=flat)
 
 <h1 align="center">Hi 👋, I'm Yash Deshmane</h1>
 <h3 align="center">A Data Science Enthusiast & Machine Learning Engineer from India ❤️</h3>
